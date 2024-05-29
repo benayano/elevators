@@ -1,4 +1,5 @@
 ![Screenshot from 2024-05-29 23-43-28](https://github.com/benayano/elevators/assets/47076756/d3e09b18-a2d1-4ee4-82ed-ddff5e47aab5)
+<img src="https://github.com/benayano/elevators/blob/main/public/images/example.png" alt="Elevator Control System" width="450" height="350">
 
 # Elevator Control System
 
