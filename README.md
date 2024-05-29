@@ -1,4 +1,4 @@
-file:///home/benaya/Pictures/Screenshots/Screenshot%20from%202024-05-29%2023-43-28.png
+![Elevator Control System](file:///home/benaya/Pictures/Screenshots/Screenshot%20from%202024-05-29%2023-43-28.png)
 
 # Elevator Control System
 
